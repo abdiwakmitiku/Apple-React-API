@@ -1,0 +1,36 @@
+/* General Styling*/
+body {
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  color: #06c;
+}
+img {
+  max-width: 100%;
+}
+.white {
+  color: #fff;
+}
+.black {
+  color: #1d1d1f;
+}
+.grey {
+  color: #86868b;
+}
+.top-50 {
+  margin-top: 50px;
+}
+.top-100 {
+  margin-top: 100px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.iphone-main-desc {
+  font-size: 26px;
+}
+/* .image-sizer {
+  
+} */
