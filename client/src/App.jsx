@@ -3,7 +3,7 @@ import Sections from "./Components/Sections/Sections";
 import { Route, Routes } from "react-router";
 import SharedLayout from "./Components/SharedLayout";
 import Iphone from "./Components/Iphone/Iphone";
-import IphoneDetail from "./Components/Iphone/IphoneDetail"
+import IphoneDetail from "./Components/Iphone/IphoneDetail";
 
 function App() {
   return (

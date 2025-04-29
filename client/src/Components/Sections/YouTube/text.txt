@@ -1,0 +1,5 @@
+API_KEY = AIzaSyCPm_6C-yoWRq91JMFe7sHrBIoNoG2jcSo
+
+APPLE_CHANNEL_ID = UCE_M8A5yxnLfW0KghEeajjw
+
+LINK = https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCE_M8A5yxnLfW0KghEeajjw&maxResults=10&order=date&key=AIzaSyCPm_6C-yoWRq91JMFe7sHrBIoNoG2jcSo
