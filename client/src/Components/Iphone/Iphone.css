@@ -1,0 +1,19 @@
+.iphones {
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    padding-top: 30px;
+}
+
+h4 {
+    text-align: center;
+    font-weight: 400;
+    padding: 10px;
+}

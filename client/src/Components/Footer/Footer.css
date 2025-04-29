@@ -10,7 +10,13 @@
 }
 .footer-wrapper ul a {
   color: #515154;
+  text-decoration: none;
 }
+
+.footer-wrapper ul a:hover {
+  text-decoration: underline;
+}
+
 .my-apple-wrapper {
   padding-bottom: 15px;
   margin-top: 10px;
