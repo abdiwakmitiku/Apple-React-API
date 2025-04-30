@@ -35,6 +35,11 @@ ul {
 .font-weight-bold {
   font-weight: 700;
 }
+
+a {
+  text-decoration: none;
+}
+
 /* .image-sizer {
   
 } */
