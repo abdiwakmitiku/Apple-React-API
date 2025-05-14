@@ -19,7 +19,7 @@ function Iphone() {
 
     getIphoneData();
   }, []);
-  console.log(products);
+  // console.log(products);
 
   let flip = true;
 
@@ -78,7 +78,7 @@ function Iphone() {
                   </div>
                 </div>
               </div>
-            );s
+            );
           })}
         </div>
       </section>

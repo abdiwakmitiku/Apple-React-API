@@ -3,7 +3,7 @@ import { useParams } from "react-router";
 import "./Iphone.css"
 
 function IphoneDetail() {
-  const { id } = useParams(); // This gets the "id" from the URL
+  const { id } = useParams();
   const [product, setProduct] = useState(null);
 
   useEffect(() => {
